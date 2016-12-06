@@ -4,6 +4,7 @@
 ?>
 <?php
   // Session::checkLogin();
+//this is not required for session
 ?>
 
 <style>
